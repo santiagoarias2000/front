@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Solarized Dark",
+		"workbench.preferredHighContrastColorTheme": "Default Dark+",
+		"workbench.editor.decorations.colors": false,
+		"workbench.preferredDarkColorTheme": "Kimbie Dark"
+	}
+}
